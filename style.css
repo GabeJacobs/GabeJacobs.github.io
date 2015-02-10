@@ -1,6 +1,5 @@
 body,html {
     background-color: white;
-    height:100%;
     
 }
 
@@ -12,7 +11,7 @@ body,html {
 	font-weight: 400;
 	position: fixed;
 	left: 50%;
-	margin-top: 180px;
+	margin-top: 15px;
 	margin-left:-205px;
 }
 
@@ -24,8 +23,8 @@ body,html {
 	font-weight: 400;
 	position: fixed;
 	left: 50%;
-	margin-top: 265px;
-	margin-left:33px;
+	margin-top: 110px;
+	margin-left:60px;
 }
 .dot {
 	
@@ -35,7 +34,7 @@ body,html {
 	font-weight: 400;
 	position: fixed;
 	left: 50%;
-	margin-top: 263px;
+	margin-top: 108px;
 	margin-left:-2px;
 }
 .resume {
@@ -46,7 +45,7 @@ body,html {
 	font-weight: 400;
 	position: fixed;
 	left: 50%;
-	margin-top: 265px;
+	margin-top: 110px;
 	margin-left:-125px;
 }
 
@@ -70,9 +69,15 @@ p.entry {
 	color: #494949;
 }
 
-.biopic{
+#biopic{
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 200px;
 	
-	
+	vertical-align: middle;
+	margin-top: 30%;
+	position: static;
 }
 
 a:link {
