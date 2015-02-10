@@ -1,0 +1,58 @@
+body,html {
+    background-color: white;
+	width: 100%;
+}
+
+.gabe {
+	
+    color: rgba(0, 0, 0, 1.0);
+	font: 50px 'HelveticaNeue-UltraLight', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	font-weight: 400;
+	position: fixed;
+	left:5%;
+	margin-top: 15px;
+}
+
+.title {
+
+	font: 20px "Avenir Next";
+	font-weight: 600;
+	position: fixed;
+	left: 5%;
+	
+	top: 100px;
+	color: #000000;
+}
+
+p.entry {
+	
+    font: 15px/24px "Avenir Next";
+	position: fixed;
+	left: 5%;
+	top: 150px;
+	width:80%;
+	color: #000000;	color: #494949;
+}
+
+a:link {
+
+	text-decoration: none;
+    color: #878787;
+}
+
+/* mouse over link */
+a:hover {
+    color: #878787;
+	text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+    color: #878787;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #878787;
+}
