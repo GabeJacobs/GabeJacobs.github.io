@@ -77,7 +77,7 @@ p.entry {
 	
 	vertical-align: middle;
 	margin-top: 30%;
-	position: static;
+	position: relative;
 }
 
 a:link {
