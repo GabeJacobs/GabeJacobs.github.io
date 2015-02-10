@@ -16,7 +16,7 @@ body,html {
 	margin-left:-205px;
 }
 
-.contact {
+.bio {
 	
     color: rgba(0, 0, 0, 1.0);
 	text-align: center;
@@ -68,6 +68,11 @@ p.entry {
 	width: 85%;
 	left: 100px;
 	color: #494949;
+}
+
+.biopic{
+	
+	
 }
 
 a:link {
